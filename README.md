@@ -1,7 +1,7 @@
 # How to run locally
 
 ```
-$[/path/to/bhko.puzly.co]> jekyll serve --force_polling
+$[/path/to/flwp.puzly.co]> jekyll serve --force_polling
 ```
 
 ## Local server address

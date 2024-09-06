@@ -1,5 +1,5 @@
 {
-	"latest_build": 2,
+	"latest_build": 3,
 	"min_supported_build": 1,
 	"store_url": "https://play.google.com/store/apps/details?id=co.puzly.flwp",
 	"other_languages": [
@@ -21,13 +21,13 @@
 			"name": "Four-Letter Word Puzzle",
 			"language": "English",
 			"url": "https://play.google.com/store/apps/details?id=co.puzly.folwp",
-			"status": "beta"
+			"status": "released"
 		},
 		{
 			"name": "Six-Letter Word Puzzle",
 			"language": "English",
 			"url": "https://play.google.com/store/apps/details?id=co.puzly.slwp",
-			"status": "beta"
+			"status": "released"
 		}
 	],
 	"custom_ads": {},
